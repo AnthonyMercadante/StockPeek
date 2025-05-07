@@ -103,6 +103,3 @@ Run `pre‑commit run --all-files` before opening a PR.
 ## License
 
 MIT © 2025 Anthony Mercadante
-
-```
-```
