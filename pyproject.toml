@@ -1,0 +1,13 @@
+[project]
+name = "stockpeek"
+version = "0.1.0"
+description = "Minimal CLI / library to fetch live stock quotes from Yahoo Finance"
+authors = [{name="Anthony Mercadante", email="anthony.mercadante@protonmail.com"}]
+dependencies = [
+    "pandas>=2.0",
+    "selenium>=4.20",
+    "webdriver-manager>=4.0"
+]
+
+[project.scripts]
+stockpeek = "stockpeek.cli:main"
