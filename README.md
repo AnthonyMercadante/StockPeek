@@ -1,4 +1,3 @@
-````markdown
 # StockPeek 📈  
 A **one‑file‑install** tool to fetch live quotes from Yahoo Finance — either by
 hitting Yahoo’s JSON API (fast, no browser) or, when you’re being rate‑limited,
